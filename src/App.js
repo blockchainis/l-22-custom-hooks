@@ -1,5 +1,6 @@
+import GrandParent from "./components/GrandParent";
 function App() {
-  return <></>;
+  return <GrandParent />;
 }
 
 export default App;
